@@ -1,4 +1,4 @@
-Visit the clone Here: https://netflix-clone-sammykariuki.netlify.app
+## Visit the clone Here: https://netflix-clone-sammykariuki.netlify.app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
